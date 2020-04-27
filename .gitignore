@@ -1,0 +1,3 @@
+*.o
+/experiments/bin/*
+!/experiments/bin/.gitkeep
